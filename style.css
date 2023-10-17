@@ -10,7 +10,7 @@ body {
 }
 
 body {
-  background-color: cadetblue;
+  background-color: navy;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,4 +20,5 @@ body {
 
 h1 {
   font-size: 25px;
+  color: whitesmoke;
 }
